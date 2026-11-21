@@ -11,7 +11,7 @@ synthesized with WebAudio, zero external assets, zero network requests.
    apron: "Port Vane International — 05:47, the sun is coming up. You are Rook Vane,
    cargo pilot turned smuggler. Four jobs before sunrise." HUD shows $120, 0 wanted
    stars, 100 HP; the M1 mission card and the minimap (top right) are visible.
-2. **2-drive.jpg** (66,430 bytes) — Mission 2, "Borrowed Wheels", in progress. The
+2. **2-drive.jpg** (66,452 bytes) — Mission 2, "Borrowed Wheels", in progress. The
    player drives the stolen blue cargo truck east along the taxiway at 101 km/h past
    the terminal and Hangar 1/2/3, with traffic sedans, ground crew, and 1 wanted star.
    The HANGAR 3 objective marker is visible bottom right; the mission card reads
@@ -20,9 +20,9 @@ synthesized with WebAudio, zero external assets, zero network requests.
    police interceptors with flashing light bars right behind the cargo truck on the
    taxiway, terminal and hangars behind, ground crew fleeing, minimap showing the
    chase and the EAST CHECKPOINT marker.
-4. **4-complete.jpg** (68,739 bytes) — Story complete. The "DAWN ESCAPE — COMPLETE"
+4. **4-complete.jpg** (68,729 bytes) — Story complete. The "DAWN ESCAPE — COMPLETE"
    panel: "Four jobs. One sunrise. The cargo is gone and so are you. Final take:
-   $7,420." The truck sits at the extraction gate east of the fuel farm; the mission
+   $7,820." The truck sits at the extraction gate east of the fuel farm; the mission
    card reads "All four jobs complete. Free roam — Port Vane is yours."
 
 ## Systems shown

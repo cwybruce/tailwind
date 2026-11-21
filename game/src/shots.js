@@ -60,7 +60,7 @@ export function stageShot(name, world, missions) {
     missions.startMission(3);
     s.missionPhase = 'done';
     s.missionIndex = 4;
-    s.cash = 7420;
+    s.cash = 7820;
     s.wanted = 0;
     s.marker = null;
     const truck = world.truck;
@@ -73,7 +73,7 @@ export function stageShot(name, world, missions) {
     s.player.x = truck.x;
     s.player.y = truck.y;
     s.player.angle = 0;
-    return { screen: SCREEN_COMPLETE, best: 7420 };
+    return { screen: SCREEN_COMPLETE, best: 7820 };
   }
   // Default: start — title screen over the dawn apron, player on foot by the tug.
   missions.startMission(0);
